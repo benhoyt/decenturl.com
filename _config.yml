@@ -1,0 +1,9 @@
+title: DecentURL.com
+description: "DecentURL.com"
+url: https://decenturl.com/
+
+# Defaults set by GitHub, only need for local serving
+# https://help.github.com/articles/configuring-jekyll/
+kramdown:
+  input: GFM
+  hard_wrap: false
